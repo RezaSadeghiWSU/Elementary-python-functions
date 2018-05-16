@@ -7,6 +7,13 @@ Setup:
 https://www.anaconda.com/download/
 
 
+Updating:
+
+command for updating anaconda navigator -> "conda update anaconda-navigator"
+
+command for updating the anaconda engine -> "conda update -n base conda"
+
+
 Get packages from GitHub:
 
 The answers are outdated. You simply have to conda install pip and git. Then you can use pip normally:
