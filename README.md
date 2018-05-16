@@ -19,3 +19,4 @@ Errors:
 
 1- The system cannot find the path specified: 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\PlatformSDK\\lib'
 solution-> this error comes up when you don't have Windows SDK installed.
+More infromation-> https://github.com/kpu/kenlm/issues/90
