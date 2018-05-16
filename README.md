@@ -13,6 +13,8 @@ command for updating anaconda navigator -> "conda update anaconda-navigator"
 
 command for updating the anaconda engine -> "conda update -n base conda"
 
+Make sure it is ready to use -> conda info
+
 
 Get packages from GitHub:
 
