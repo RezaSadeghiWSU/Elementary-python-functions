@@ -31,3 +31,13 @@ Errors:
 solution-> this error comes up when you don't have Windows SDK installed.
 
 More infromation-> https://github.com/kpu/kenlm/issues/90
+
+
+2. ModuleNotFoundError: No module named 'urllib2'
+
+solution-> the urllib2 in python2 has been change in divided to different functions. You can replace two following commands:
+"from urllib2 import urlopen" -> "from urllib.request import urlopen"
+
+More information: https://www.youtube.com/watch?v=KtxFr6NpHUU
+
+
