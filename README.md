@@ -26,6 +26,8 @@ You can install pytorch on windows through conda using this command:
 
 conda install -c peterjc123 pytorch
 
+https://stackoverflow.com/questions/45906706/pytorch-install-with-anaconda-error
+
 conda install git pip
 
 pip install git+git://github.com/scrappy/scrappy@master
