@@ -21,6 +21,11 @@ Get packages from GitHub:
 The answers are outdated. You simply have to conda install pip and git. Then you can use pip normally:
 Activate your conda environment
 
+Pytorch package:
+You can install pytorch on windows through conda using this command:
+
+conda install -c peterjc123 pytorch
+
 conda install git pip
 
 pip install git+git://github.com/scrappy/scrappy@master
