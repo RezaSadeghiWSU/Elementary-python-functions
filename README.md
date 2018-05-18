@@ -30,6 +30,7 @@ pip install git+git://github.com/scrappy/scrappy@master
 
 
 Pytorch package:
+
 You can install pytorch on windows through conda using this command:
 
 conda install -c peterjc123 pytorch
@@ -40,6 +41,9 @@ https://stackoverflow.com/questions/45906706/pytorch-install-with-anaconda-error
 
 
 Dealing with different version of Python:
+
+Current environment ->conda info --env
+
 Inistalling environment for ver2-> conda create -n Python27 python=2.7
 
 https://stackoverflow.com/questions/37442494/is-it-ok-having-both-anacondas-2-7-and-3-5-installed-in-the-same-time
