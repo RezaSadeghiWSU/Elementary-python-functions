@@ -7,6 +7,7 @@ Setup:
 https://www.anaconda.com/download/
 
 
+
 Updating:
 
 command for updating anaconda navigator -> "conda update anaconda-navigator"
@@ -16,10 +17,17 @@ command for updating the anaconda engine -> "conda update -n base conda"
 Make sure it is ready to use -> conda info
 
 
+
 Get packages from GitHub:
 
 The answers are outdated. You simply have to conda install pip and git. Then you can use pip normally:
 Activate your conda environment
+
+conda install git pip
+
+pip install git+git://github.com/scrappy/scrappy@master
+
+
 
 Pytorch package:
 You can install pytorch on windows through conda using this command:
@@ -28,10 +36,13 @@ conda install -c peterjc123 pytorch
 
 https://stackoverflow.com/questions/45906706/pytorch-install-with-anaconda-error
 
-conda install git pip
 
-pip install git+git://github.com/scrappy/scrappy@master
 
+
+Dealing with different version of Python:
+Inistalling environment for ver2-> conda create -n Python27 python=2.7
+
+https://stackoverflow.com/questions/37442494/is-it-ok-having-both-anacondas-2-7-and-3-5-installed-in-the-same-time
 
 Errors:
 
