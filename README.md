@@ -48,6 +48,8 @@ Inistalling environment for ver2-> conda create -n Python27 python=2.7
 
 https://stackoverflow.com/questions/37442494/is-it-ok-having-both-anacondas-2-7-and-3-5-installed-in-the-same-time
 
+https://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
+
 Errors:
 
 1- The system cannot find the path specified: 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\PlatformSDK\\lib'
