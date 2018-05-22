@@ -27,6 +27,8 @@ conda install git pip
 
 pip install git+git://github.com/scrappy/scrappy@master
 
+Search and inistal new packages -> https://www.youtube.com/watch?v=Z_Kxg-EYvxM
+
 
 
 Pytorch package:
