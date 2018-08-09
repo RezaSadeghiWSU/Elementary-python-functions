@@ -52,6 +52,10 @@ https://stackoverflow.com/questions/37442494/is-it-ok-having-both-anacondas-2-7-
 
 https://stackoverflow.com/questions/30170468/how-to-run-spyder-in-virtual-environment
 
+Changing the environment
+
+https://conda.io/docs/user-guide/tasks/manage-environments.html
+
 Errors:
 
 1- The system cannot find the path specified: 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\PlatformSDK\\lib'
